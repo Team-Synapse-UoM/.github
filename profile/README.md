@@ -1,7 +1,7 @@
 # Team Synapse UoM
 ## EN3150 Assignment 03
 
-Welcome to Team Synapse UoM's GitHub organization! We are a group of electrical engineering students from the University of Moratuwa, working on the **Pattern Recognition (EN3150) Group Assignment**. Our focus is on deep learning techniques, particularly Convolutional Neural Networks (CNNs) and image classification.
+Welcome to Team Synapse UoM's GitHub organization! We are a group of electrical engineering students from the University of Moratuwa, working on the **Pattern Recognition (EN3150) Group Assignment**. Our focus is on deep learning techniques - Convolutional Neural Networks (CNNs) for image classification.
 
 ### Part 1: Custom CNN for Image Classification
 ---
@@ -17,20 +17,19 @@ In this project, all four team members collaborated to design and implement a cu
 - Evaluation through accuracy, confusion matrix, precision, and recall.
 - Comparisons made with popular architecture.
 
-
 ### Part 2: State-of-the-Art Implementations
 ---
 
 Each team member has taken the lead in implementing and fine-tuning a specific pre-trained CNN architecture, comparing its performance with the custom model.
 
 ### Repositories:
-- **[DenseNet Implementation](https://github.com/Team-Synapse-UoM/DenseNet-Implementation)** by Gayanukaa  
+- **[DenseNet Implementation](https://github.com/Team-Synapse-UoM/DenseNet-Implementation)** by [Gayanukaa](https://github.com/Gayanukaa)
     - DenseNet fine-tuned on our dataset to achieve improved accuracy and model convergence.
-- **[ResNet Implementation](https://github.com/Team-Synapse-UoM/ResNet-Implementation)** by Sulith123  
+- **[ResNet Implementation](https://github.com/Team-Synapse-UoM/ResNet-Implementation)** by [Sulith123](https://github.com/Sulith123)  
     - ResNet architecture used to handle deeper layers with residual connections.
-- **[GoogLeNet Implementation](https://github.com/Team-Synapse-UoM/GoogLeNet-Implementation)** by nimeshlal097  
+- **[GoogLeNet Implementation](https://github.com/Team-Synapse-UoM/GoogLeNet-Implementation)** by [nimeshlal097](https://github.com/nimeshlal097)
     - Fine-tuning of GoogLeNet for complex image classification.
-- **[VGG Implementation](https://github.com/Team-Synapse-UoM/VGG-Implementation)** by SandaruDias  
+- **[VGG Implementation](https://github.com/Team-Synapse-UoM/VGG-Implementation)** by [SandaruDias](https://github.com/SandaruDias)
     - VGG architecture optimized to extract more features from the dataset.
 
 Each repository includes:
@@ -53,7 +52,7 @@ Phase 5: Final Presentation & Documentation<br>
 
 In addition to the repositories, we are working on a website that will host our project documentation and results.
 
-- **[Team-Synapse-UoM.github.io](https://Team-Synapse-UoM.github.io)**
+- **[Team-Synapse-UoM.github.io](https://Team-Synapse-UoM.github.io)** (under development)
 
 
 <!-- ## Members
